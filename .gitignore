@@ -1,0 +1,54 @@
+.classpath
+.project
+.settings/*
+target/*
+.springBeans
+.settings/
+target/
+.classpath
+.project
+.settings/*
+target/*
+.springBeans
+/target/
+# Java
+*.jar
+
+# Gradle
+build
+.gradle
+gradle.properties
+.gradletasknamecache
+out
+*/build/*
+
+#.mvn/*
+
+# Eclipse
+bin
+.classpath
+.project
+.settings
+.metadata
+.springBeans
+.launch
+
+# IDEA
+.idea
+*.ipr
+*.iws
+*.iml
+
+# Misc
+test-output
+logs
+.DS_Store
+*.xml-BAK
+/.metadata
+/.recommenders
+/out
+
+.profiler/
+jmeter.log
+nohup.out
+
